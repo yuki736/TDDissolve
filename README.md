@@ -1,1 +1,2 @@
-# Dissolve Effects by TouchDesigner 
+# Dissolve Effects
+This example is made using the TouchDesigner.
